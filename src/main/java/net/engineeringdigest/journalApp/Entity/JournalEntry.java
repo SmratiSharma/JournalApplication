@@ -15,8 +15,8 @@ import java.util.Date;
 //@Setter
 //@ToString
 //@EqualsAndHashCode
-//@NoArgsConstructor
-//@AllArgsConstructor
+@NoArgsConstructor
+//@AllArgsConstruc tor
 @Data
 
 public class JournalEntry {  //pojo - plain old java object

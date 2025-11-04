@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-@Document(collection = "users") //ye spring se bolega ki ye pura class ek mongodb mai map hoga
+@Document(collection = "user") //ye spring se bolega ki ye pura class ek mongodb mai map hoga
 @Data
 
 public class User {     //pojo - plain old java object
